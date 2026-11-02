@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# generated captures (keep baseline.pcap as a demo fixture)
+*.pcap
+!baseline.pcap
+test_output*.txt

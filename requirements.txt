@@ -1,0 +1,6 @@
+flask
+requests
+scapy
+rich
+matplotlib
+numpy
